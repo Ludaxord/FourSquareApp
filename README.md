@@ -1,3 +1,5 @@
+# PROJECT HAS BEEN REUPLOAD TO GITHUB AND HAS BEEN DISCONTINUED IN 2018
+
 # FourSquareApp
 This solution contains 2 applications: one for iOS, second for Android. 
 It was created with usage of native technologies (Swift, Kotlin).
